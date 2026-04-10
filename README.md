@@ -4,12 +4,14 @@
 
 **在线体验**: [buffet.tina-ai.fun](https://buffet.tina-ai.fun)
 
+基于 Andrej Karpathy 的 LLM Wiki 模式（https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f），构建一个巴菲特投资思想知识图谱网站。
+
 ## 功能
 
 - **知识浏览** — 245 个知识页面，涵盖核心概念、投资公司、关键人物、股东信、访谈演讲
 - **全文搜索** — 基于中文多粒度 n-gram 的即时搜索
 - **知识图谱** — D3.js 力导向图，可视化 1400+ 条交叉链接
-- **AI 巴菲特** — 基于 RAG 检索的流式对话，以巴菲特风格回答投资问题
+- **AI 巴菲特** — 基于知识库的巴菲特风格智能对话，SSE 流式输出，以巴菲特风格回答投资问题
 - **响应式布局** — 适配桌面、平板和手机
 
 <img width="2419" height="1363" alt="image" src="https://github.com/user-attachments/assets/0f3041e9-a3f4-4123-a66d-d3371bcb51f1" />
