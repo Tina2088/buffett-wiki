@@ -28,7 +28,7 @@
 |---|---|
 | 前端 | Vue 3 + Vue Router + Vite |
 | 后端 | Express.js + SSE 流式输出 |
-| AI | Anthropic Claude API + LLM-Wiki |
+| AI巴菲特 | LLM-Wiki |
 | 可视化 | D3.js 力导向图 |
 | 部署 | Fly.io (Docker) |
 
