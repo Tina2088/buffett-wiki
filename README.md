@@ -4,7 +4,7 @@
 
 **在线体验**: [buffet.tina-ai.fun](https://buffet.tina-ai.fun)
 
-基于 Andrej Karpathy 的 LLM Wiki 模式（https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f），构建一个巴菲特投资思想知识图谱网站。
+基于 Andrej Karpathy 的 LLM Wiki 模式（https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f ） ，构建一个巴菲特投资思想知识图谱网站。
 
 ## 功能
 
