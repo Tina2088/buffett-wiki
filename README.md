@@ -12,6 +12,12 @@
 - **AI 巴菲特** — 基于 RAG 检索的流式对话，以巴菲特风格回答投资问题
 - **响应式布局** — 适配桌面、平板和手机
 
+<img width="2419" height="1363" alt="image" src="https://github.com/user-attachments/assets/0f3041e9-a3f4-4123-a66d-d3371bcb51f1" />
+
+<img width="2461" height="1364" alt="image" src="https://github.com/user-attachments/assets/da2f4e53-2b6e-4b44-981d-dc1331db702f" />
+
+<img width="2467" height="1344" alt="image" src="https://github.com/user-attachments/assets/ebaff8ef-93d0-4485-8de7-fb9d90a1917b" />
+
 <img width="2800" height="6908" alt="00-full-page" src="https://github.com/user-attachments/assets/46ca2b8a-db13-4b2a-a5ea-a189654597e6" />
 
 ## 技术栈
